@@ -1,3 +1,5 @@
+# This is bullshit, don't follow it, it's just a homework.
+
 ## How to setup KeePass for your first time
 ![keypass logo](https://keepass.info/images/icons/keepass_512x512.png)
 KeePass is an open source password manager. This tutorial will introduce you to setup KeePass for the first time. It will involve initialize the KeePass storage database and link it to a browser to allow automatic password generation and fill-in. 
